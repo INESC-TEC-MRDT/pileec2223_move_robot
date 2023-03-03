@@ -20,6 +20,8 @@ is to implement at least a GoToXY controller.
 
 - [roscpp](https://wiki.ros.org/roscpp)
 - [geometry_msgs](https://wiki.ros.org/geometry_msgs)
+- [nav_msgs](https://wiki.ros.org/nav_msgs)
+- [tf](https://wiki.ros.org/tf)
 
 ### Parameters
 
