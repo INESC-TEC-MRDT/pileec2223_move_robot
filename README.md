@@ -67,10 +67,10 @@ catkin build
 
 ### Launch
 
-**sdpo_ros_odom_wh**
+**gotoxy**
 
 ```sh
-roslaunch sdpo_ros_odom sdpo_ros_odom_wh.launch
+roslaunch pileec2223_move_robot gotoxy.launch
 ```
 
 ## Contacts
